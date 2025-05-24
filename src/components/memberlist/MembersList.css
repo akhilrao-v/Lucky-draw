@@ -1,0 +1,12 @@
+.members-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  flex-wrap: wrap;
+  height: 250px;
+  overflow: scroll;
+}
+#person{
+  background-color: black;
+  width: fit-content;
+}
